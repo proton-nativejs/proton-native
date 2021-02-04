@@ -17,10 +17,11 @@ interface PixSize {
 }
 
 interface ImageSource {
-  uri: string;
-  method: any;
-  body: any;
-  headers: any;
+  buffer?: Buffer;
+  uri?: string;
+  method?: any;
+  body?: any;
+  headers?: any;
 }
 
 interface ImageStyle extends React.CSSProperties {
@@ -139,7 +140,15 @@ export default (p: Props) => {
         resizeMode.r = r;
       },
       source: (source: ImageSource) => {
-        if (source.uri) {
+        if (source.buffer)
+        {
+          element.setFromData(source.buffer);
+          element.scaleImage(
+            pixSize.width,
+            pixSize.height,
+            pixSize.resizeMode
+          );
+        } else if (source.uri) {
           // need to figure out what width and height work with, and also work with arrays
           if (
             source.uri.startsWith("http://") ||
