@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { AppRegistry, Window, App, Button, Picker, View } from 'proton-native';
+import { AppRegistry, Window, App, Button, Picker, View } from 'valence-native';
 
 class Example extends Component {
   render() {

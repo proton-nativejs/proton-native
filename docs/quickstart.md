@@ -19,7 +19,7 @@ installed with `nvm`).
 
 ```bash
 # install the cli app
-npx proton-native-cli init my-app
+npx valence-native-cli init my-app
 # move to your project directory
 cd my-app
 

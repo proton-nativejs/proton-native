@@ -6,7 +6,7 @@ import {
   Text,
   View,
   TouchableOpacity,
-} from 'proton-native';
+} from 'valence-native';
 
 class CircleButton extends Component {
   render() {

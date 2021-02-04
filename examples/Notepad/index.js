@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import fs from 'fs';
-import { App, AppRegistry, Window, TextInput, View } from 'proton-native';
+import { App, AppRegistry, Window, TextInput, View } from 'valence-native';
 
 class Notepad extends Component {
   state = { text: '' };

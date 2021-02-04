@@ -42,8 +42,8 @@
     }
 </style>
 
-<a href='https://github.com/kusti8/proton-native' id="but">Github</a>
-<a href='#/?id=proton-native' id="last">Get Started</a>
+<a href='https://github.com/kusti8/valence-native' id="but">Github</a>
+<a href='#/?id=valence-native' id="last">Get Started</a>
 
 <ul style='color:white;'>
 <li>Same syntax & components as React Native <li/>

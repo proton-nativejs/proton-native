@@ -17,7 +17,7 @@ import React, { Component } from 'react';
 import SysTray from 'systray';
 import fs from 'fs';
 
-import { AppRegistry, Window, App, View, TextInput } from 'proton-native';
+import { AppRegistry, Window, App, View, TextInput } from 'valence-native';
 
 const systray = new SysTray({
   menu: {

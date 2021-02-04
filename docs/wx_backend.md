@@ -26,7 +26,7 @@ npm i -S node-wx-napi # Install the backend
 Then add the following to the top of your code.
 
 ```js
-import { setBackend } from 'proton-native';
+import { setBackend } from 'valence-native';
 
 setBackend('wx'); // Default is 'qt'
 ```

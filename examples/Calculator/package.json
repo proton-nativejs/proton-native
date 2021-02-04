@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "proton-native": "^2.0.0"
+    "valence-native": "^2.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

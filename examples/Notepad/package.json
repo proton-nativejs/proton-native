@@ -1,13 +1,13 @@
 {
   "name": "notepad",
   "version": "1.0.0",
-  "description": "a notepad app built using proton-native",
+  "description": "a notepad app built using valence-native",
   "main": "index.js",
   "scripts": {
     "start": "babel-node index.js"
   },
   "dependencies": {
-    "proton-native": "^2.0.0"
+    "valence-native": "^2.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",

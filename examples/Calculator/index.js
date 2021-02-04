@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppRegistry } from 'proton-native';
+import { AppRegistry } from 'valence-native';
 import Calculator from './app';
 
 AppRegistry.registerComponent('calculator', <Calculator />); // and finally render your main component

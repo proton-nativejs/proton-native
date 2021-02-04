@@ -6,7 +6,7 @@ The following example creates a generic button component that implements _mouse 
 
 ```jsx
 import React from 'react';
-import { View } from 'proton-native';
+import { View } from 'valence-native';
 
 function Button({ children, onPress }) {
   const [isHover, setHover] = React.useState(false);

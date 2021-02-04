@@ -8,7 +8,7 @@ import {
   Picker,
   Button,
   Image,
-} from 'proton-native';
+} from 'valence-native';
 import * as Actions from '../actions';
 import { sizeConsts, typeConsts } from '../consts';
 import { connect } from 'react-redux/lib/alternate-renderers';

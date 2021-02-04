@@ -53,6 +53,6 @@ React packages such as Redux still work.
 
 ## Examples
 
-Check out [the examples](https://github.com/kusti8/proton-native/tree/master/examples) to see more.
+Check out [the examples](https://github.com/kusti8/valence-native/tree/master/examples) to see more.
 
 <a href="https://www.keycdn.com/"><sub><sup>Accelerated by KeyCDN</sup></sub></a>

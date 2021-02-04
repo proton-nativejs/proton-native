@@ -1,5 +1,5 @@
 {
-  "name": "proton-native",
+  "name": "valence-native",
   "version": "2.0.5",
   "description": "React Native for the desktop, cross compatible",
   "main": "bin/index.js",
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kusti8/proton-native.git"
+    "url": "git+https://github.com/kusti8/valence-native.git"
   },
   "author": "Gustav Hansen <kusti8@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kusti8/proton-native/issues"
+    "url": "https://github.com/kusti8/valence-native/issues"
   },
-  "homepage": "https://github.com/kusti8/proton-native#readme",
+  "homepage": "https://github.com/kusti8/valence-native#readme",
   "dependencies": {
     "color": "^3.1.2",
     "file-type": "12.4.2",

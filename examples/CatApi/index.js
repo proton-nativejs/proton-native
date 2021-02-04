@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppRegistry } from 'proton-native';
+import { AppRegistry } from 'valence-native';
 import CatApi from './app';
 
 AppRegistry.registerComponent('CatApi', <CatApi />); // and finally render your main component

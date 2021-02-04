@@ -8,7 +8,7 @@ The following creates a window that takes up 50% of the desktop in height, and 2
 ```jsx
 import React, { Component } from 'react';
 
-import { AppRegistry, Window, App } from 'proton-native';
+import { AppRegistry, Window, App } from 'valence-native';
 
 class Example extends Component {
   render() {

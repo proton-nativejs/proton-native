@@ -189,13 +189,13 @@ the state.
 
 ## To get started
 
-Installation is simple with the `proton-native-cli` app.
+Installation is simple with the `valence-native-cli` app.
 
 ```bash
 # install the cli app
-npm install -g proton-native-cli
+npm install -g valence-native-cli
 # create your project
-proton-native init my-app
+valence-native init my-app
 # move to your project directory
 cd my-app
 
@@ -232,7 +232,7 @@ installed with `nvm`).
   - Allows quick developing for your apps.
 - Improved Devtools support
   - The `react-devtool` support is now much more robust for better debugging.
-- `proton-native-cli`
+- `valence-native-cli`
   - An entirely new management utility which allows for future additions if needed as well.
 - Typescript
   - All of the code was converted over to Typescript to reduce bugs. The implementation needs to be better and more safe, but it works for now.
