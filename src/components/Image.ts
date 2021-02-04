@@ -2,7 +2,7 @@ import propChecker from "../utils/propChecker";
 import { Container } from "./Container";
 import * as PropTypes from "prop-types";
 import propsUpdater from "../utils/propsUpdater";
-import convertStyleSheet from "../utils/convertStyleSheet";
+import "../utils/convertStyleSheet";
 import { YogaComponent, Layout } from "./YogaComponent";
 import fetch from "node-fetch";
 import { getBackend } from "../backends/index";
