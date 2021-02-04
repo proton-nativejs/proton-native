@@ -1,6 +1,6 @@
 # External Functionality
 
-Some functionality will probably never make it to Proton Native, but that doesn't mean that it isn't possible.
+Some functionality will probably never make it to Valence Native, but that doesn't mean that it isn't possible.
 This is a list of external tools found that help common tasks. **All of these are designed to be cross platform.**
 
 ## Tools

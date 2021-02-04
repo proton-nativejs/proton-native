@@ -2,7 +2,7 @@
 
 ## react-devtools
 
-Currently, Proton Native allows you to use `react-devtools` to debug your code out of the box.
+Currently, Valence Native allows you to use `react-devtools` to debug your code out of the box.
 
 It works automatically if you:
 

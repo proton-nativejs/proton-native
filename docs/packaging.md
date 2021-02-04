@@ -1,6 +1,6 @@
 # Packaging
 
-Currently, the easiest way to package a Proton Native v2 application is to use `nexe`.
+Currently, the easiest way to package a Valence Native v2 application is to use `nexe`.
 This will create a binary for your platform. Unfortunately due to how `nexe` works,
 you will have to distribute a small folder next to that binary. This contains the
 Qt libraries, as well as the Node.js bindings for Qt.

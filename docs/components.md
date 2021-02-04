@@ -1,6 +1,6 @@
 # Components
 
-The advantage of Proton Native is that all components are the same as React Native. Currently
+The advantage of Valence Native is that all components are the same as React Native. Currently
 many props are not implemented, but many important ones are. As time progresses this will change.
 
 ## App

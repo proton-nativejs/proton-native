@@ -10,7 +10,7 @@ All documentation is housed in `docs/`, and is written in Markdown. Follow the f
 
 ## Important Points
 
-Proton Native welcomes contributions to constantly improve. Contributions are accepted in the form of a PR, which has a few important points that should be followed.
+Valence Native welcomes contributions to constantly improve. Contributions are accepted in the form of a PR, which has a few important points that should be followed.
 
 1.  Styling is done with prettier. A git-hook has been added for convience, but any PR that isn't styled won't be accepted.
 

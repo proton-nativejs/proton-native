@@ -1,4 +1,4 @@
-# Proton Native
+# Valence Native
 
 > Create desktop applications with React Native components, on all platforms
 
@@ -30,13 +30,13 @@ a seamless way to build user interfaces and manage state in code, all while doin
 On desktop, there is no such tool. You can create a GUI using something like Qt, but for people who are used to the React workflow and JSX, there currently isn't an alternative.
 
 Some of you might be saying that you could do it in Electron. It's a good tool, but it brings in a lot of overhead, running a full webbrowser
-to manage a small GUI, while Proton Native can do the same, using native tools, with a smaller size and with less resource usage.
+to manage a small GUI, while Valence Native can do the same, using native tools, with a smaller size and with less resource usage.
 
-Proton Native does the same
+Valence Native does the same
 to desktop that React Native did to mobile. Build cross-platform apps for the desktop, all while never leaving the React eco-system. Popular
 React packages such as Redux still work.
 
-**Here's a simple example in Proton Native:**
+**Here's a simple example in Valence Native:**
 
 [js_example.js](js_example.js ':include :type=code jsx')
 
