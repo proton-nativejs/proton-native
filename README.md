@@ -6,7 +6,7 @@
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Discord chat](https://img.shields.io/discord/801506779979841577)]((https://discord.gg/9rP6x9Vy3m))
+[![Discord chat](https://img.shields.io/discord/801506779979841577)](https://discord.gg/9rP6x9Vy3m)
 
 Create desktop applications through a React syntax, on all platforms.
 

@@ -1,6 +1,6 @@
 {
   "name": "valence-native",
-  "version": "2.0.5",
+  "version": "0.0.1",
   "description": "React Native for the desktop, cross compatible",
   "main": "bin/index.js",
   "lint-staged": {
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kusti8/valence-native.git"
+    "url": "git+https://github.com/valence-native/valence-native.git"
   },
-  "author": "Gustav Hansen <kusti8@gmail.com>",
+  "author": "Arash M. <arashhmoo@protonmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kusti8/valence-native/issues"
+    "url": "https://github.com/valence-native/valence-native/issues"
   },
-  "homepage": "https://github.com/kusti8/valence-native#readme",
+  "homepage": "https://github.com/valence-native/valence-native#readme",
   "dependencies": {
     "color": "^3.1.2",
     "file-type": "12.4.2",
