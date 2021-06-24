@@ -2,6 +2,7 @@
   <a href="https://valence-native.js.org">
     <img alt="valence native" src="https://cdn.discordapp.com/attachments/801506779979841580/806295470447132712/valence-native.svg">
   </a>
+  <br/>
   Logo by <a href="https://github.com/aramodi">@aramodi</a>
 </p>
 
